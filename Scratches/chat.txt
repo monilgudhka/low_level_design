@@ -1,0 +1,33 @@
+Requirements
+
+Application should support
+1. private communication
+2. group chat
+3. Text Message
+
+
+User
+Message
+ChatRoom
+    - Private (2)
+    - Group (1, 255)
+
+
+
+
+-- After
+4. Media Messages
+5. Status
+6. User Attribute
+
+
+History (Private)
+SEND - timestamp
+DELIVERED - if all user
+READ - User specific
+DELETE
+
+
+1. ChatWindow
+2. Notification
+3. Backup

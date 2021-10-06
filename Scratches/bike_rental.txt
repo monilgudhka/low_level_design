@@ -1,0 +1,24 @@
+Bike/Cycle Rental
+
+2 types of Bike
+Electric Bike
+Mechanical Bike
+
+User
+within city
+
+Bike book and use
+Bike parked in Station by Rental company
+Book bike using QR scan
+If it is available then rent
+
+return bike in the stations
+parking should be available for return or else search for next stations
+
+separate parking for electric and mechanical
+
+
+Bike
+Station
+Parking
+User
